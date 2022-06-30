@@ -1,0 +1,1 @@
+print('kuliah ges')
